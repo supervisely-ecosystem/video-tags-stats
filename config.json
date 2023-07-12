@@ -8,7 +8,7 @@
   "docker_image": "supervisely/base-py-sdk:6",
   "main_script": "src/video-tags-stats.py",
   "task_location": "application_sessions",
-  "icon": "https://img.icons8.com/color/96/000000/group.png",
+  "icon": "https://github.com/supervisely-ecosystem/video-tags-stats/assets/48245050/e60f9a0a-9029-4103-9c77-8e86500e9200",
   "icon_background": "#FFFFFF",
   "headless": true,
   "context_menu": {
